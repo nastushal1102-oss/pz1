@@ -76,7 +76,8 @@ int main() {
 <img width="1180" height="664" alt="image" src="https://github.com/user-attachments/assets/a0daeb36-7fa4-4fed-bc7c-5a8c02b18321" />
 <img width="1211" height="722" alt="image" src="https://github.com/user-attachments/assets/b5adcf29-2917-43a1-bc21-f39117c1c3f8" />
 
-
+###  Висновок
+Навчилася працювати з вказівниками в C++. Тепер розумію, як брати адреси через &, як міняти значення через * і як передавати змінні у функцію за адресою, щоб напряму редагувати дані. Усе працює.
 
 
 
